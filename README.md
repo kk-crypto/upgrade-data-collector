@@ -5,7 +5,7 @@
 ## Should have Python 3.X
 
 ### Install flask using below command
-pip install flask
+pip install -r requirements.txt
 
 ### Command to run flak 
 
