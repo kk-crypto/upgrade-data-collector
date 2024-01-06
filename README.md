@@ -1,7 +1,5 @@
 # This Flask project is to enable REST call to create a JSON file
 
-# This Flask project is to enable REST call to create a JSON file
-
 ## Should have Python 3.X
 
 ### Install flask using below command
